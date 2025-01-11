@@ -9,17 +9,7 @@ O Programa de Estágio Docente (PED) é uma iniciativa da Universidade Estadual 
 ### Informações do Programa
 
 - **Participante:** Bruno Henrique Nunes
-- **Identidade:** 401797752 - SSP
-- **CPF:** 32130984851
-- **Data de Nascimento:** 13/11/1987
-- **Naturalidade:** Santa Bárbara D'Oeste
-- **Nacionalidade:** Brasileiro
 - **Curso:** Mestrado em Tecnologia (Área de Concentração: Sistemas de Informação e Comunicação)
-- **Ingresso:** Exame de Seleção da Pós-Graduação, 1º semestre de 2024
-- **Escola Anterior:** Fundação Instituto de Administração - FIA
-- **Conclusão da Escola Anterior:** 06/2023
-- **Situação no Curso:** Curso em andamento
-- **Período de Ingresso:** 2024
 
 ### Certificação
 
