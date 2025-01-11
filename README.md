@@ -39,3 +39,14 @@ Os slides disponíveis neste repositório estão organizados por aula e tópicos
 git clone https://github.com/bhnunes/PED_SI305.git
 
 
+## Contato
+
+Para mais informações, entre em contato com:
+- **Nome:** Bruno Henrique Nunes
+- **E-mail:** bruno.nunes@example.com
+
+## Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+
