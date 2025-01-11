@@ -27,13 +27,8 @@ Os slides disponíveis neste repositório estão organizados por aula e tópicos
 
 ### Estrutura do Repositório
 
-- `/aula1`: Introdução a Sistemas de Informação
-- `/aula2`: Modelagem de Dados
-- `/aula3`: Arquitetura de Sistemas
-- `/aula4`: Análise de Requisitos
-- `/aula5`: Projeto de Sistemas
-- `/aula6`: Implementação de Sistemas
-- `/aula7`: Validação e Verificação de Sistemas
+- `/aula1`: Diagrama de Classe de Projeto
+- `/aula2`: Tópico diagrama de Sequência
 
 ## Como Utilizar
 
